@@ -1,2 +1,2 @@
 # hello-word
-first!
+I hope to learn a lot here
